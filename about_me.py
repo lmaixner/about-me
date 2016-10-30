@@ -8,6 +8,6 @@ print("My name is Laura and I like twix.")
 
 print("My name is Erin and I am sad that all the chocolate candy is gone.   ")
 
-print("My name is Elias and I   ")
+print("A girl has no name.")
 
 print("My name is Stephan and I can't spell.")
