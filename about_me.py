@@ -6,7 +6,7 @@ print("My name is Jane and I    ")
 
 print("My name is Laura and I   ")
 
-print("My name is Erin and I    ")
+print("My name is Erin and I am sad that all the chocolate candy is gone.   ")
 
 print("My name is Elias and I   ")
 
