@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-print("My name is Andy and I crave the sweet release of deat")
+print("My name is Andy and I crave the sweet release of death")
 
 print("My name is Jane and I    ")
 
